@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <String.h>
 
 void printIntByAddress(int*);
 
