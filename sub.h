@@ -2,5 +2,6 @@
 #define __SUB__H
 
 int createRand(int);
+char* selectMsg(int);
 
 #endif
